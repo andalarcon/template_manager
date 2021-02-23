@@ -1,7 +1,7 @@
 {
     "git_parameters" : {
-        "remote_repo"     : "github.com/lcmadrig/templating_engine.git",
-        "local_repo_dest" : "C:/Users/andalarcon/OneDrive - ENDAVA/Documents/01_proyectos/2021/VideoAmp/query_templating/git_test/repositories/templating_engine",
+        "remote_repo"     : "",
+        "local_repo_dest" : "",
         "selected_branch" : "",
         "commit_hash"     : "",
         "user"            : "",
